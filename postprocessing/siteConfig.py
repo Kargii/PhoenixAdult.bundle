@@ -16,9 +16,9 @@ overwrite_duplicate = False
 keep_duplicate = True
 #Folder where duplicate files will placed if keep_duplicate = true
 #Set to "" for original folder
-duplicate_location = "C:\Path\to\Duplicates"
+duplicate_location = ""
 
-log_location = 'C:\Program Files\SABnzbd\scripts\pa_post.log'
+log_location = '/config/scripts/pa_post.log'
 #linux example '/usr/local/sabnzbd/var/logs/pa_post.log'
 
 #Only used when bulk updating existing collections where all videos are the the same folder. (see Readme)
